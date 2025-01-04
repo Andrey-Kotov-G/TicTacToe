@@ -188,7 +188,7 @@
             label1.Name = "label1";
             label1.Size = new Size(698, 74);
             label1.TabIndex = 9;
-            label1.Text = "Крестики-нолики с управляемым режимом сложности\r\nот Котова Андрея, 8Г";
+            label1.Text = "Крестики-нолики с управляемым режимом сложности\r\nот Котова Андрея, 9Г";
             label1.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // panel1
